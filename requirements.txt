@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+numpy
+opencv-python-headless
+basicsr
+facexlib
+gfpgan
+realesrgan
+torch
+torchvision
